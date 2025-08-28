@@ -1,6 +1,12 @@
 # Currency-Converter
 ![alt text](Currency_Converter.png)
 
+## 🌐 Live Demo
+
+Check out the live version of the Currency Converter app here:  
+[https://nit-currency-converter.netlify.app/](https://nit-currency-converter.netlify.app/)
+
+
 🌍 Currency Converter
 
 A real-time, dynamic currency converter web application that allows users to convert amounts between any two world currencies instantly. This project leverages the free Fawaz Ahmed Exchange API
